@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/boomerang/static/css/main.bb4174fc.css",
-    "main.js": "/boomerang/static/js/main.876a4a9a.js",
+    "main.js": "/boomerang/static/js/main.c788a2c8.js",
     "static/css/228.050866a2.chunk.css": "/boomerang/static/css/228.050866a2.chunk.css",
     "static/js/228.c3e945f1.chunk.js": "/boomerang/static/js/228.c3e945f1.chunk.js",
     "static/css/580.b1614808.chunk.css": "/boomerang/static/css/580.b1614808.chunk.css",
@@ -213,7 +213,7 @@
     "static/media/arrow-white.lottie": "/boomerang/static/media/arrow-white.da7160551ec58da5177d.lottie",
     "index.html": "/boomerang/index.html",
     "main.bb4174fc.css.map": "/boomerang/static/css/main.bb4174fc.css.map",
-    "main.876a4a9a.js.map": "/boomerang/static/js/main.876a4a9a.js.map",
+    "main.c788a2c8.js.map": "/boomerang/static/js/main.c788a2c8.js.map",
     "228.050866a2.chunk.css.map": "/boomerang/static/css/228.050866a2.chunk.css.map",
     "228.c3e945f1.chunk.js.map": "/boomerang/static/js/228.c3e945f1.chunk.js.map",
     "580.b1614808.chunk.css.map": "/boomerang/static/css/580.b1614808.chunk.css.map",
@@ -227,6 +227,6 @@
   },
   "entrypoints": [
     "static/css/main.bb4174fc.css",
-    "static/js/main.876a4a9a.js"
+    "static/js/main.c788a2c8.js"
   ]
 }
